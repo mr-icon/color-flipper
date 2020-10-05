@@ -1,2 +1,0 @@
-# counter-flip
-js-flipper
